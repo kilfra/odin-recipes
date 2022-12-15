@@ -1,0 +1,1 @@
+What shall I say? This is the start of the project "Odin-recipes". Let's see how it tastes ;P
